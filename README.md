@@ -1,3 +1,3 @@
 # nodetest
 
-//node.js url module testing
+node.js url module testing
